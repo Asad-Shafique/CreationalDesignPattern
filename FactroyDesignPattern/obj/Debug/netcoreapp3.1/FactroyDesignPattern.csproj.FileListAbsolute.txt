@@ -1,0 +1,13 @@
+E:\Asad Data\VisualStudioWorkSpace\FactroyDesignPattern\FactroyDesignPattern\bin\Debug\netcoreapp3.1\FactroyDesignPattern.exe
+E:\Asad Data\VisualStudioWorkSpace\FactroyDesignPattern\FactroyDesignPattern\bin\Debug\netcoreapp3.1\FactroyDesignPattern.deps.json
+E:\Asad Data\VisualStudioWorkSpace\FactroyDesignPattern\FactroyDesignPattern\bin\Debug\netcoreapp3.1\FactroyDesignPattern.runtimeconfig.json
+E:\Asad Data\VisualStudioWorkSpace\FactroyDesignPattern\FactroyDesignPattern\bin\Debug\netcoreapp3.1\FactroyDesignPattern.runtimeconfig.dev.json
+E:\Asad Data\VisualStudioWorkSpace\FactroyDesignPattern\FactroyDesignPattern\bin\Debug\netcoreapp3.1\FactroyDesignPattern.dll
+E:\Asad Data\VisualStudioWorkSpace\FactroyDesignPattern\FactroyDesignPattern\bin\Debug\netcoreapp3.1\FactroyDesignPattern.pdb
+E:\Asad Data\VisualStudioWorkSpace\FactroyDesignPattern\FactroyDesignPattern\obj\Debug\netcoreapp3.1\FactroyDesignPattern.csprojAssemblyReference.cache
+E:\Asad Data\VisualStudioWorkSpace\FactroyDesignPattern\FactroyDesignPattern\obj\Debug\netcoreapp3.1\FactroyDesignPattern.AssemblyInfoInputs.cache
+E:\Asad Data\VisualStudioWorkSpace\FactroyDesignPattern\FactroyDesignPattern\obj\Debug\netcoreapp3.1\FactroyDesignPattern.AssemblyInfo.cs
+E:\Asad Data\VisualStudioWorkSpace\FactroyDesignPattern\FactroyDesignPattern\obj\Debug\netcoreapp3.1\FactroyDesignPattern.csproj.CoreCompileInputs.cache
+E:\Asad Data\VisualStudioWorkSpace\FactroyDesignPattern\FactroyDesignPattern\obj\Debug\netcoreapp3.1\FactroyDesignPattern.dll
+E:\Asad Data\VisualStudioWorkSpace\FactroyDesignPattern\FactroyDesignPattern\obj\Debug\netcoreapp3.1\FactroyDesignPattern.pdb
+E:\Asad Data\VisualStudioWorkSpace\FactroyDesignPattern\FactroyDesignPattern\obj\Debug\netcoreapp3.1\FactroyDesignPattern.genruntimeconfig.cache
