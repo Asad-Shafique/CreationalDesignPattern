@@ -6,6 +6,6 @@ namespace FactroyDesignPattern
 {
     class EnvironmentConfig
     {
-        public const string ENVIRONMENT_TYPE = "LIVE";
+        public const string ENVIRONMENT_TYPE = "DEV";
     }
 }
